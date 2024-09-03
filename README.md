@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Vivek Sahu</h1>
-<h3 align="center">I am Data Science Enthusiast and passionate about Data Analytics and Insights.</h3>
+<h3 align="center">Learning Full Stack .</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=viveksahu0404&label=Profile%20views&color=0e75b6&style=flat" alt="viveksahu0404" /> </p>
 
 <p align="left"> <a href="https://twitter.com/@viveksa86281882" target="blank"><img src="https://img.shields.io/twitter/follow/@viveksa86281882?logo=twitter&style=for-the-badge" alt="@viveksa86281882" /></a> </p>
 
-- 📫 How to reach me **viveksahunoida2020@gmail.com**
+- 📫 How to reach me **sahuviveksahu2004@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
