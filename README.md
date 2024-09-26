@@ -34,10 +34,6 @@
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamyashsharma43&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
 <div align="center">
-<h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
-
-<!--[website]: -->
-[linkedin]: https://www.linkedin.com/in/yesitsyash
 
 <h1 align="center"> नमस्ते (Namaste)🙏🏻, I am Vivek Sahu 👋</h1>
 <h3 align="center">Learning Full Stack .</h3>
@@ -64,4 +60,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=viveksahu0404&show_icons=true&locale=en" alt="viveksahu0404" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=viveksahu0404&" alt="viveksahu0404" /></p>
+
+<h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
 
