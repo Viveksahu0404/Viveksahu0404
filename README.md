@@ -1,14 +1,5 @@
-[![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc) 
+[![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc)
 
-
-### नमस्ते (Namaste)🙏🏻, I am Kumar Sharma 👋
-[![Linkedin Badge](https://img.shields.io/badge/-yesitsyash-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yesitsyash/)](https://www.linkedin.com/in/yesitsyash/)
-[![Gmail Badge](https://img.shields.io/badge/-yesitsyash43@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yesitsyash43@gmail.com)](mailto:yesitsyash43@gmail.com) 
-
-
-- 🎯 Portfolio website: [Portfolio](https://iamyashsharma43.github.io/)
-- 💬 Ask me about anything, I am happy to help :smile:
-- 📬 How to reach me: [Let's get in touch!][linkedin]
 
 ### Languages and Tools: 
 <img align="left" alt="JAVA" width="30px" src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/300px-Java_programming_language_logo.svg.png" />
@@ -48,7 +39,7 @@
 <!--[website]: -->
 [linkedin]: https://www.linkedin.com/in/yesitsyash
 
-<h1 align="center">Hi 👋, I'm Vivek Sahu</h1>
+<h1 align="center"> नमस्ते (Namaste)🙏🏻, I am Vivek Sahu 👋</h1>
 <h3 align="center">Learning Full Stack .</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=viveksahu0404&label=Profile%20views&color=0e75b6&style=flat" alt="viveksahu0404" /> </p>
