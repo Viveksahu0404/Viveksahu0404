@@ -2,7 +2,6 @@
 
 
 ### Languages and Tools: 
-<img align="left" alt="JAVA" width="30px" src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/300px-Java_programming_language_logo.svg.png" />
 <img align="left" alt="HTML5" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 <img align="left" alt="HTML5" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png" />
 <img align="left" alt="SQL" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
@@ -11,32 +10,9 @@
 <img align="left" alt="GitHub" width="50px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png"/>
 <img align="left" alt="HTML5" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="HTML5" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-<img align="left" alt="Visual Studio Code" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-
-<br>
-<br>
-<br>
-
-
-
-
-
-
-
-- Python <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-- Java 👨‍💻
-- Full Stack Development
-- DSA
-
-
-
-
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamyashsharma43&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
-<div align="center">
 
 <h1 align="center"> नमस्ते (Namaste)🙏🏻, I am Vivek Sahu 👋</h1>
-<h3 align="center">Learning Full Stack .</h3>
+<h3 align="center">Full Stack Development <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> .</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=viveksahu0404&label=Profile%20views&color=0e75b6&style=flat" alt="viveksahu0404" /> </p>
 
